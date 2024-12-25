@@ -1,0 +1,14 @@
+Name: Min Phanith
+Age: 18
+Year: 1
+Department: ITE
+Study shift: morning
+Class: m2
+
+Name: Phan Rattanak
+Age: 18
+Year: 1
+Department: ITE
+Study shift: morning
+Class: M2
+
